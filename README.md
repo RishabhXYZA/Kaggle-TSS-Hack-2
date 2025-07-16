@@ -1,6 +1,6 @@
 # Kaggle-TSS-Hack-2
 Kaggle Hack-2 organized by TSS
-Evaluation will be done on MAE(Mean Absolute Error)
+1. Evaluation will be done on MAE(Mean Absolute Error)
 
 # Models Used 
 1. Linear Regression

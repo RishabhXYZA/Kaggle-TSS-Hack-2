@@ -12,4 +12,7 @@ Kaggle Hack-2 organized by TSS
 7. LGBM
 8. Decision Tree
 
-# Also features used such as Hypertune Parameters,Polynomial Feature,etc..
+Also features used such as Hypertune Parameters,Polynomial Feature,etc..
+
+# Kaggle Competition Link
+https://www.kaggle.com/competitions/thapar-summer-school-2025-hack-ii
